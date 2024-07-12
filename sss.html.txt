@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .apology {
+            font-size: 24px; /* 글꼴 크기 */
+            color: red; /* 글꼴 색상 */
+            font-weight: bold; /* 글꼴 굵기 */
+            font-style: italic; /* 글꼴 스타일 */
+            text-shadow: 2px 2px 5px gray; /* 글꼴 그림자 */
+        }
+    </style>
+</head>
+<body>
+    <p class="apology">미안해</p>
+</body>
+</html>
